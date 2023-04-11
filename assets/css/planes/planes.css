@@ -1,0 +1,15 @@
+main{
+    text-align: center;
+}
+ul{
+
+    list-style-type: disc;
+    list-style-position: outside;
+    margin: 0 0 20px 0;
+    padding: 0 0 0 20px;
+}
+
+div > ul > li{
+display: block;
+    margin-bottom: 10px;
+}

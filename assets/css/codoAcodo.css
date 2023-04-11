@@ -12,11 +12,11 @@ nav{
     padding: 4%;
     margin: 0%;
 }
-ol{
+nav > ol{
     list-style-type: none;
     text-align: center;
 }
-li{
+nav > ol > li{
     background-color: aquamarine;
     border: black 1px solid;
     display: inline;
